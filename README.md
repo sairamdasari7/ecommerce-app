@@ -17,4 +17,4 @@
 ## Challenges
   - Aligning the modal with the Figma design
   - Managing state between components
-  - Deployed Link: https://ecsite-ebon.vercel.app/
+  - Deployed Link: https://ecommerce-app-git-main-sairams-projects-4afef64a.vercel.app/
