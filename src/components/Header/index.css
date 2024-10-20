@@ -1,0 +1,82 @@
+.top-nav{
+    background-color: #165315;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:10px;
+}
+.top-nav-text{
+    margin-left:auto;
+}
+.contact-no{
+    margin-left: auto;
+    margin-right:30px;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding:15px;
+}
+.logo-section{
+    display: flex;
+    align-items: center;
+}
+.page-logo{
+  margin-left:15px;
+  min-width:50px;
+}
+.heading{
+    font-family: sans-serif;
+    font-size: 26px;
+    color:#165315;
+    margin-left:15px;
+}
+.menu-list{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    padding-left:0;
+    margin:0;
+}
+.menu-item{
+    padding-left:20px;
+    padding-right:20px; 
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+.profile-cart{
+    display: flex;
+    align-items: center;
+}
+.pc-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:10px;
+}
+.pc-text{
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+}
+.search-section{
+    width:100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.input-box{
+    border:none;
+    outline:none;
+    cursor:pointer;
+    font-size: 15px;
+    padding:4px;
+}
+.styling-line{
+    border-bottom: 1px solid #838383;
+}
